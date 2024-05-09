@@ -1,0 +1,22 @@
+{
+  "name": "majmooah-2-arqaam",
+  "version": "1.0.0",
+  "description": "this is a package to be published in npm directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AazhmeerChhapra/plus.git"
+  },
+  "keywords": [
+    "plus"
+  ],
+  "author": "Aazhmeer Chhapra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AazhmeerChhapra/plus/issues"
+  },
+  "homepage": "https://github.com/AazhmeerChhapra/plus#readme"
+}
